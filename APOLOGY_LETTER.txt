@@ -1,0 +1,14 @@
+Subject: Apology for One-Day Delay in Assessment Submission
+
+Dear Hiring Team,
+
+I sincerely apologize for submitting the assessment one day later than the expected deadline.
+
+While completing the project, I underestimated the time required to integrate, test, and validate the research workflow end-to-end, particularly the retrieval, PDF parsing, vector search, summarization, and "grounded QA stages".I was only able to complete the basic code and was not able to implement the LLM to my project I used some help and it in last few hours.
+
+I understand the importance of meeting the given deadline, and I take responsibility for the delay. I have completed the project and am submitting the working implementation along with the README and supporting material.
+
+Thank you for your understanding and for taking the time to review my submission.
+
+Regards,
+Vishwanath S. Navalagund

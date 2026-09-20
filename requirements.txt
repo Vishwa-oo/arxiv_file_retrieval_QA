@@ -1,0 +1,8 @@
+requests
+beautifulsoup4
+pymupdf
+pandas
+numpy
+faiss-cpu
+sentence-transformers
+langgraph
